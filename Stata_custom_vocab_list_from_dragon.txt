@@ -1,0 +1,158 @@
+@Version=Plato-UTF8
+\in-line-command\All-Caps
+\in-line-command\All-Caps-Off
+\in-line-command\All-Caps-On
+\in-line-command\Cap
+\in-line-command\Caps-Off
+\in-line-command\Caps-On
+\in-line-command\New-Line
+\in-line-command\New-Paragraph
+\in-line-command\No-Caps
+\in-line-command\No-Caps-Off
+\in-line-command\No-Caps-On
+\in-line-command\No-Space
+\in-line-command\No-Space-Off
+\in-line-command\No-Space-On
+\in-line-command\space-bar
+\in-line-command\tab
+!=\\|
+"\\op quote
+"`\\open quote tick
+$demg\\global demographics
+$deriv\\global derivative
+$desca\\global descriptive
+$docs\\global documents
+$edu_col\\college edu
+$edu_grad\\grad edu
+$edu_HS\\high school edu
+$edu_sCol\\some college edu
+$extr\\global extracted
+$figures\\global figures
+$impe\\global import
+$inc\\global income
+$know\\global knowledge
+$master\\global master
+$mergd\\global merged
+$race_asian\\asian race
+$race_black\\black race
+$race_hisp\\hispanic race
+$race_other\\other race
+$regrq\\global regress
+$S_DATE\\date stamp
+$S_TIME\\time stamp
+$source\\global source
+$tables\\global tables
+$temp\\global temp
+',\\apostrophe comma
+.pdf
+.xls\\dot Excel ess
+=\\equals
+[iweight=]\\importance weight
+[pweight=]\\person weight
+[weight=]\\general weight
+^2\\squared
+_n\\observation _n
+`\\tick
+1
+1:1\\one to one
+1:m\\one to many
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+3
+30
+4
+40
+5
+50
+6
+60
+7
+70
+8
+80
+9
+90
+addnote\\add note
+age_var\\age var
+age2\\age squared
+alpha (0.001, 0.01, 0.05) symbol(***, **, *)\\alpha symbol
+amerInd_race_value\\Indian race value
+asian_race_value\\asian race value
+bar()\\bar
+black_race_value\\black race value
+bysort\\by sort
+cd
+centre
+clonevar
+col_condition\\col condition
+ctitle("")\\see title
+cumul\\cumulative
+datasignature set
+dB_\\binary demographic
+dec()\\decimals
+destring
+di\\display
+dissertation_code\\dissertation code
+doi\\D O I
+edu_var\\edu var
+edu_vars\\edu vars
+eform\\E form
+foreach\\for each
+fullnames\\full names
+gen
+gender_var\\gender var
+github
+grad_condition\\grad condition
+groupvar\\group var
+hisp_var\\hisp var
+HS_condition\\HS condition
+https://osf.io/qmhe8/\\OSF website
+inc_type\\inc type
+inc_var\\inc var
+labelbook\\label book
+lcolor()\\L color
+level()\\level
+lHS_condition\\LHS condition
+linesize\\line size
+m\\missing
+m:1\\many to one
+mcolor()\\M color
+mult_race_value\\mult race value
+new_var\\new var
+noaster
+nolab
+nonotes
+nose\\no SE
+other_race_value\\other race value
+outreg2\\out reg two
+over()\\over
+psu()\\PSU
+race_missing_condition\\race missing condition
+race_var\\race var
+race_vars\\race vars
+refline()\\refline
+rm\\remove
+sCol_condition\\some col condition
+singleunit(scaled)\\single unit
+strata()\\strata
+stripplot
+subtitle("")\\subtitle
+svy:\\survey
+svyset\\survey-set
+title("")\\title
+val
+var_repl\\var replace
+var_type\\var type
+white_race_value\\white race value
+xtitle("")\\x title
+ytitle("")\\y title
