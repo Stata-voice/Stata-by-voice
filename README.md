@@ -23,7 +23,4 @@ How to get set up:
       f) Install wxPython2.8-win32-ansi-2.8.12.1-py27
 4) Install NatLink (also comes with Vocola and Unimacro) - most up-to-date source: http://qh.antenna.nl/unimacro/index.html
       a) Enable NatLink using the GUI (from Windows Start menu)
-5) Install DragonFly 
-      a) Install pip - a package installer for Python: pip-1.1.win32.exe
-      b) Open a "terminal" command line prompt and tell pip to install Dragonfly - type the following exactly into the command line: pip install dragonfly 
-      
+5) ...
