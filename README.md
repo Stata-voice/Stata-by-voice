@@ -21,6 +21,7 @@ How to get set up:
       d) Install pywin32-218.win32-py2.7
       e) Install PyXML-0.8.4.win32-py2.7
       f) Install wxPython2.8-win32-ansi-2.8.12.1-py27
-4) Install NatLink (also comes with Vocola and Unimacro) - most up-to-date source: http://qh.antenna.nl/unimacro/index.html
+4) Add PATH enviroment variable for C:\Python27 and C:\Python27\Script (Right click on computer, click on Advanced system settings, click on Enviroment Variables)
+5) Install NatLink (also comes with Vocola and Unimacro) - most up-to-date source: http://qh.antenna.nl/unimacro/index.html
       a) Enable NatLink using the GUI (from Windows Start menu)
-5) ...
+6) ...
